@@ -1,4 +1,4 @@
-# is-capitalized
+# is-capitalized [![Build Status](https://travis-ci.org/tjmehta/is-capitalized.svg)](https://travis-ci.org/tjmehta/is-capitalized) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](http://standardjs.com/)
 Checks if an input string is a capitalized or not.
 
 # Installation
